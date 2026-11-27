@@ -1,43 +1,41 @@
  <div align="center">
 
-# SUDHANSU KUMAR
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,50:312E81,100:7C3AED&height=220&section=header&text=SUDHANSU%20KUMAR&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=DEVELOPER%20%7C%20AI%20ENTHUSIAST%20%7C%20BUILDER&descSize=15&descAlignY=60&animation=fadeIn" width="100%" />
 
-### Developer · AI Enthusiast · Technology Explorer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+My+Personal+AI+Assistant;Exploring+Artificial+Intelligence;Turning+Ideas+Into+Projects;Learning+Something+New+Every+Day" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Building+Intelligent+Applications;Exploring+Artificial+Intelligence;Learning+and+Creating+Every+Day" alt="Typing SVG" />
+<br/>
 
-<p>
-  <a href="https://github.com/sudx-code">
-    <img src="https://img.shields.io/badge/GitHub-sudx--code-181717?style=flat-square&logo=github" />
-  </a>
-  <img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-8B5CF6?style=flat-square" />
-  <img src="https://img.shields.io/badge/Status-Building%20Projects-238636?style=flat-square" />
-</p>
+<a href="https://github.com/sudx-code">
+<img src="https://img.shields.io/badge/GitHub-sudx--code-181717?style=for-the-badge&logo=github" />
+</a>
+<img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Building-SUDHU%20AI-238636?style=for-the-badge" />
 
 </div>
 
 ---
 
-# 📖 Contents
+# 📑 Contents
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 - [👋 Introduction](#-introduction)
 - [👨‍💻 About Me](#-about-me)
-- [🎯 Current Focus](#-current-focus)
-- [🛠️ Technologies](#️-technologies)
+- [🖥️ Developer Overview](#️-developer-overview)
+- [🛠️ Technology Stack](#️-technology-stack)
 - [🚀 Featured Project](#-featured-project)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 - [🏗️ Project Architecture](#️-project-architecture)
 - [📊 GitHub Metrics](#-github-metrics)
-- [📈 Statistics](#-github-statistics)
-- [🧠 Interests](#-areas-of-interest)
-- [🌐 Connect](#-connect)
+- [📈 GitHub Statistics](#-github-statistics)
+- [🐍 Contribution Snake](#-contribution-snake)
+- [🌐 Connect](#-connect-with-me)
 
 </td>
 </tr>
@@ -49,11 +47,11 @@
 
 Welcome to my GitHub profile!
 
-I'm **Sudhanshu Kumar**, a developer interested in artificial intelligence, application development, backend engineering, and emerging technologies.
+I'm **Sudhanshu Kumar**, a developer interested in Artificial Intelligence, software development, application engineering and emerging technologies.
 
-I enjoy experimenting with new ideas and transforming them into practical software projects.
+I enjoy exploring new technologies, experimenting with ideas and building practical projects.
 
-My goal is to keep learning, build meaningful applications, and improve my development skills through real-world projects.
+My journey is focused on learning through development and creating applications that solve real problems.
 
 ---
 
@@ -61,28 +59,42 @@ My goal is to keep learning, build meaningful applications, and improve my devel
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
-### 🧑 Profile
+### Who Am I?
 
-- **Name:** Sudhanshu Kumar
-- **Username:** `sudx-code`
-- **Role:** Developer
-- **Primary Interest:** Artificial Intelligence
-- **Current Project:** SUDHU AI
-- **GitHub:** [@sudx-code](https://github.com/sudx-code)
+- 💻 Interested in software development
+- 🤖 Exploring Artificial Intelligence
+- ⚡ Learning backend engineering
+- 📱 Exploring Flutter application development
+- 🧠 Experimenting with local AI models
+- 🚀 Developing my personal AI assistant
+- 🔍 Interested in intelligent automation
 
 </td>
-<td width="50%" valign="top">
+<td width="45%" valign="top">
 
-### ⚡ Development Interests
+### Developer Profile
 
-- Artificial Intelligence
-- Backend Development
-- Cross-platform Applications
-- Speech Processing
-- Automation
-- Software Architecture
+```yaml
+name: Sudhanshu Kumar
+username: sudx-code
+role: Developer
+
+interests:
+  - Artificial Intelligence
+  - Software Development
+  - Automation
+
+current_project:
+  - SUDHU AI
+
+learning:
+  - Python
+  - FastAPI
+  - Flutter
+  - AI Development
+```
 
 </td>
 </tr>
@@ -90,78 +102,75 @@ My goal is to keep learning, build meaningful applications, and improve my devel
 
 ---
 
-# 🎯 Current Focus
+# 🖥️ Developer Overview
 
 <table>
 <tr>
-<th>Technology</th>
-<th>Area</th>
-<th>Application</th>
+<th>Category</th>
+<th>Details</th>
 </tr>
 <tr>
-<td>Python</td>
-<td>Programming</td>
-<td>Backend and AI development</td>
-</tr>
-<tr>
-<td>FastAPI</td>
-<td>Backend</td>
-<td>API development</td>
-</tr>
-<tr>
-<td>Flutter</td>
-<td>Frontend</td>
-<td>Cross-platform applications</td>
-</tr>
-<tr>
-<td>Qwen3</td>
+<td>Primary Interest</td>
 <td>Artificial Intelligence</td>
-<td>AI conversations</td>
 </tr>
 <tr>
-<td>Ollama</td>
+<td>Programming</td>
+<td>Python, Dart</td>
+</tr>
+<tr>
+<td>Backend</td>
+<td>FastAPI</td>
+</tr>
+<tr>
+<td>Application Development</td>
+<td>Flutter</td>
+</tr>
+<tr>
+<td>AI Model</td>
+<td>Qwen3</td>
+</tr>
+<tr>
 <td>AI Runtime</td>
-<td>Local model execution</td>
+<td>Ollama</td>
 </tr>
 <tr>
-<td>SQLite</td>
 <td>Database</td>
-<td>Conversation storage</td>
+<td>SQLite</td>
+</tr>
+<tr>
+<td>Current Project</td>
+<td>SUDHU AI</td>
 </tr>
 </table>
 
 ---
 
-# 🛠️ Technologies
+# 🛠️ Technology Stack
 
-## 💻 Programming Languages
+## Programming Languages
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=python,dart" />
 </p>
 
-## ⚙️ Frameworks & Development
+## Frameworks & Development
 
 <p>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=fastapi,flutter" />
 </p>
 
-## 🤖 Artificial Intelligence
+## AI Technologies
 
 <p>
+<img src="https://img.shields.io/badge/Qwen3-615CED?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
-<img src="https://img.shields.io/badge/Qwen3-615CED?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Faster--Whisper-6C63FF?style=for-the-badge" />
 </p>
 
-## 🗄️ Database & Tools
+## Database & Tools
 
 <p>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=sqlite,git,github,vscode" />
 </p>
 
 ---
@@ -170,69 +179,90 @@ My goal is to keep learning, build meaningful applications, and improve my devel
 
 <div align="center">
 
-## 🤖  SUDHU AI
+## 🤖 SUDHU AI
 
-### Personal AI Assistant
+### My Personal AI Assistant
 
-<img src="https://img.shields.io/badge/Project-AI%20Assistant-8B5CF6?style=flat-square" />
-<img src="https://img.shields.io/badge/Backend-FastAPI-009688?style=flat-square" />
-<img src="https://img.shields.io/badge/Frontend-Flutter-02569B?style=flat-square" />
+<img src="https://img.shields.io/badge/PROJECT-PERSONAL%20AI%20ASSISTANT-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-238636?style=for-the-badge" />
 
 </div>
 
-**SUDHU AI** is my personal AI assistant project, designed around a Flutter application and a FastAPI backend.
+**SUDHU AI** is my personal AI assistant project, currently under development.
 
-The project combines AI conversations, speech processing, and conversation storage.
+My goal is to build an intelligent assistant combining AI conversations, voice interaction, conversation memory and future automation capabilities.
 
-## 🧩 Project Components
+## Project Technology
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### 🖥️ Frontend
-
-Flutter-based chat interface for interacting with the assistant.
-
-### ⚡ Backend
-
-FastAPI services for handling application requests and AI communication.
-
-### 🧠 AI Engine
-
-Qwen3 model running through Ollama.
-
-</td>
-<td width="50%" valign="top">
-
-### 🎙️ Speech Recognition
-
-Faster-Whisper for speech-to-text processing.
-
-### 🔊 Voice Output
-
-macOS `say` for text-to-speech.
-
-### 🗃️ Memory Storage
-
-SQLite for conversation-related data.
-
-</td>
+<th>Component</th>
+<th>Technology</th>
+<th>Purpose</th>
+</tr>
+<tr>
+<td>Frontend</td>
+<td>Flutter</td>
+<td>Chat interface</td>
+</tr>
+<tr>
+<td>Backend</td>
+<td>FastAPI</td>
+<td>Backend services</td>
+</tr>
+<tr>
+<td>AI Model</td>
+<td>Qwen3</td>
+<td>AI conversations</td>
+</tr>
+<tr>
+<td>Model Runtime</td>
+<td>Ollama</td>
+<td>Local model execution</td>
+</tr>
+<tr>
+<td>Speech Recognition</td>
+<td>Faster-Whisper</td>
+<td>Speech-to-text</td>
+</tr>
+<tr>
+<td>Voice Output</td>
+<td>macOS say</td>
+<td>Text-to-speech</td>
+</tr>
+<tr>
+<td>Database</td>
+<td>SQLite</td>
+<td>Conversation storage</td>
 </tr>
 </table>
 
 <details>
-<summary><b>🔍 Explore the project components</b></summary>
+<summary><b>🔍 Explore SUDHU AI Components</b></summary>
 
-| Component | Technology | Purpose |
-|---|---|---|
-| User Interface | Flutter | Chat application |
-| Backend API | FastAPI | Application services |
-| AI Model | Qwen3 | Conversational responses |
-| Model Runtime | Ollama | Local model execution |
-| Speech-to-Text | Faster-Whisper | Speech recognition |
-| Text-to-Speech | macOS say | Voice output |
-| Database | SQLite | Conversation storage |
+### 🖥️ Flutter Frontend
+
+A Flutter-based interface for interacting with the personal AI assistant.
+
+### ⚡ FastAPI Backend
+
+Backend services that handle application requests and AI communication.
+
+### 🧠 AI Engine
+
+Qwen3 running through Ollama for conversational responses.
+
+### 🎙️ Speech Recognition
+
+Faster-Whisper for converting speech into text.
+
+### 🔊 Voice Output
+
+macOS `say` for text-to-speech functionality.
+
+### 🗃️ Conversation Storage
+
+SQLite for storing conversation-related information.
 
 </details>
 
@@ -243,107 +273,42 @@ SQLite for conversation-related data.
 <div align="center">
 
 ```text
-             ┌──────────────────────┐
-             │      SUDHU AI        │
-             │   Flutter Frontend   │
-             └──────────┬───────────┘
-                        │
-                        ▼
-             ┌──────────────────────┐
-             │     FastAPI          │
-             │    Backend           │
-             └──────────┬───────────┘
-                        │
-             ┌──────────┼───────────┐
-             ▼          ▼           ▼
-        ┌─────────┐ ┌─────────┐ ┌─────────┐
-        │ Qwen3   │ │ Speech  │ │ SQLite  │
-        │ Ollama  │ │ Services│ │ Storage │
-        └─────────┘ └─────────┘ └─────────┘
+             ┌─────────────────────────┐
+             │        SUDHU AI         │
+             │     Flutter Frontend    │
+             └────────────┬────────────┘
+                          │
+                          ▼
+             ┌─────────────────────────┐
+             │        FastAPI          │
+             │      Backend API        │
+             └────────────┬────────────┘
+                          │
+            ┌─────────────┼─────────────┐
+            ▼             ▼             ▼
+       ┌─────────┐   ┌──────────┐   ┌─────────┐
+       │  Qwen3  │   │  Speech  │   │ SQLite  │
+       │ Ollama  │   │ Services │   │ Memory  │
+       └─────────┘   └──────────┘   └─────────┘
 ```
 
 </div>
 
 ---
 
+# 📊 GitHub Metrics
 
 <div align="center">
 
-# 📊 GITHUB METRICS
+**A visual overview of my GitHub activity, contributions and development journey.**
 
-### THE DEVELOPER DASHBOARD
-
-<p>
-  <img src="https://img.shields.io/badge/PROFILE-sudx--code-181717?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/ANALYTICS-GitHub-8B5CF6?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/DATA-Automatically%20Generated-238636?style=flat-square" />
-</p>
-
-**A detailed visualization of my GitHub activity, coding journey and development progress.**
+<img src="https://img.shields.io/badge/PROFILE-sudx--code-181717?style=flat-square&logo=github" />
+<img src="https://img.shields.io/badge/ANALYTICS-GitHub%20Metrics-8B5CF6?style=flat-square" />
 
 </div>
 
----
+<img src="./github-metrics.svg" width="100%" alt="Sudhanshu Kumar GitHub Metrics Dashboard" />
 
-<details open>
-<summary><b>📈 01 — COMPLETE GITHUB METRICS DASHBOARD</b></summary>
-
-<br/>
-
-<div align="center">
-
-<img src="./github-metrics.svg" alt="Sudhanshu Kumar GitHub Metrics" width="100%" />
-
-</div>
-
-</details>
-
----
-
-<details>
-<summary><b>📊 02 — GITHUB STATISTICS</b></summary>
-
-<br/>
-
-<div align="center">
-
-<a href="https://github.com/sudx-code">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sudx-code&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/sudx-code">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudx-code&layout=compact&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
-</details>
-
----
-
-<details>
-<summary><b>🔥 03 — CONTRIBUTION STREAK</b></summary>
-
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=sudx-code&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
-
-</div>
-
-</details>
-
----
-
-<div align="center">
-
-### ⚡ CONTINUOUSLY BUILDING · LEARNING · IMPROVING
-
-<sub>Metrics generated through GitHub Actions · Profile: @sudx-code</sub>
-
-</div>
-
----
 ---
 
 # 📈 GitHub Statistics
@@ -351,71 +316,84 @@ SQLite for conversation-related data.
 <div align="center">
 
 <a href="https://github.com/sudx-code">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=sudx-code&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sudx-code&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
 </a>
-
 <a href="https://github.com/sudx-code">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudx-code&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudx-code&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </a>
-
-</div>
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=sudx-code&theme=tokyonight&hide_border=true" alt="Contribution Streak" />
 
 </div>
 
 ---
 
-# 🧠 Areas of Interest
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=sudx-code&theme=tokyonight&hide_border=true" width="80%" alt="GitHub Contribution Streak" />
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+### Watch my GitHub contributions come alive!
+
+<img src="https://raw.githubusercontent.com/sudx-code/sudx-code/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake Animation" />
+
+</div>
+
+---
+
+# 🧩 Areas of Interest
 
 <table>
 <tr>
 <td align="center" width="33%">
 
-### 🤖 AI
+### 🤖
 
-Artificial Intelligence
-
-</td>
-<td align="center" width="33%">
-
-### ⚡ Backend
-
-API Development
+**Artificial Intelligence**
 
 </td>
 <td align="center" width="33%">
 
-### 📱 Apps
+### ⚡
 
-Flutter Development
+**Backend Engineering**
+
+</td>
+<td align="center" width="33%">
+
+### 📱
+
+**App Development**
 
 </td>
 </tr>
 <tr>
 <td align="center">
 
-### 🎙️ Speech
+### 🎙️
 
-Speech Processing
-
-</td>
-<td align="center">
-
-### 🗃️ Data
-
-Database Systems
+**Speech Technology**
 
 </td>
 <td align="center">
 
-### 🔧 Automation
+### 🗄️
 
-Intelligent Workflows
+**Database Systems**
+
+</td>
+<td align="center">
+
+### 🔧
+
+**Automation**
 
 </td>
 </tr>
@@ -428,33 +406,33 @@ Intelligent Workflows
 <details>
 <summary><b>🤖 Artificial Intelligence</b></summary>
 
-- AI-powered applications
 - Local AI models
-- Conversational systems
+- Conversational AI
+- AI-powered applications
 - Speech recognition
-- AI application integration
+- AI integration
 
 </details>
 
 <details>
-<summary><b>⚙️ Backend Engineering</b></summary>
+<summary><b>⚙️ Backend Development</b></summary>
 
-- Python development
+- Python
 - FastAPI
-- REST API concepts
+- API development
 - Database integration
-- Application architecture
+- Backend architecture
 
 </details>
 
 <details>
-<summary><b>📱 App Development</b></summary>
+<summary><b>📱 Application Development</b></summary>
 
 - Flutter
 - Dart
 - Cross-platform development
-- UI development
-- Frontend-backend integration
+- User interface development
+- Frontend and backend integration
 
 </details>
 
@@ -463,8 +441,8 @@ Intelligent Workflows
 
 - SQLite
 - Structured data
-- Database integration
 - Conversation storage
+- Database integration
 
 </details>
 
@@ -474,13 +452,11 @@ Intelligent Workflows
 
 <div align="center">
 
-### Learn · Build · Experiment · Improve
+### LEARN → BUILD → EXPERIMENT → IMPROVE
+
+*Every project is an opportunity to learn something new.*
 
 </div>
-
-I believe development is a continuous learning process.
-
-Every project is an opportunity to understand something new, solve problems, and improve the way software is built.
 
 ---
 
@@ -498,12 +474,14 @@ Every project is an opportunity to understand something new, solve problems, and
 
 <div align="center">
 
-### Thanks for visiting my profile!
+### THANKS FOR VISITING MY PROFILE!
 
-**Explore my repositories and follow my development journey.**
+Explore my repositories and follow my development journey.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:8B5CF6&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:312E81,100:09090B&height=140&section=footer" width="100%" />
 
-**SUDHANSU KUMAR · SUDX-CODE**
+**SUDHANSU KUMAR · `sudx-code`**
+
+*Building. Learning. Improving.*
 
 </div>
