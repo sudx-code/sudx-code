@@ -1,16 +1,45 @@
 ## Hi there 👋
 
-<!--
-**sudx-code/sudx-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# SUDHANSHU KUMAR
 
-Here are some ideas to get you started:
+### CREATIVE TECHNOLOGIST
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+*Where imagination meets engineering.*
+
+**THINK. ENGINEER. INNOVATE.**
+
+---
+
+## About Me
+
+I'm an aspiring creative technologist interested in building meaningful digital experiences through software, design, and emerging technology.
+
+My focus is on learning how ideas become useful, well-engineered products.
+
+## Areas of Interest
+
+- Artificial Intelligence
+- Full-Stack Development
+- Software Engineering
+- Product Innovation
+
+## Tech Stack
+
+**Currently exploring**
+
+- HTML
+- CSS
+- JavaScript
+
+## What I'm Working Toward
+
+Building a strong foundation in software development and creating projects that combine technical thinking with product-oriented creativity.
+
+## My Philosophy
+
+> Think beyond the obvious.  
+> Build with intention.  
+> Keep learning.  
+> Make ideas real.
+
 -->
