@@ -84,3 +84,8 @@ Building a strong foundation in software engineering and AI by creating practica
 ---
 
 ⭐ **"Code. Learn. Improve. Repeat."**
+---
+
+## 📊 GitHub Metrics
+
+![GitHub Metrics](./github-metrics.svg)
