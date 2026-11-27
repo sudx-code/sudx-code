@@ -1,45 +1,86 @@
 ## Hi there 👋
 
+
+
+<div align="center">
+
 # SUDHANSHU KUMAR
 
-### CREATIVE TECHNOLOGIST
+### ✦ CREATIVE TECHNOLOGIST
 
-*Where imagination meets engineering.*
+**Where imagination meets engineering.**
 
-**THINK. ENGINEER. INNOVATE.**
+🤖 Artificial Intelligence · 💻 Software Engineering · 🚀 Product Innovation
+
+*Curiosity-driven. Innovation-focused. Built to create.*
 
 ---
 
-## About Me
+### THINK. ENGINEER. INNOVATE.
 
-I'm an aspiring creative technologist interested in building meaningful digital experiences through software, design, and emerging technology.
+</div>
 
-My focus is on learning how ideas become useful, well-engineered products.
+## 👋 About Me
 
-## Areas of Interest
+I'm a Computer Science student exploring the intersection of **Artificial Intelligence, software engineering, and creative product development.**
 
-- Artificial Intelligence
-- Full-Stack Development
+I enjoy turning ideas into practical digital experiences—learning through experimentation, building projects, and continuously improving my engineering skills.
+
+- 🧠 Exploring AI and intelligent systems
+- 💻 Learning full-stack development
+- 🛠️ Building projects to strengthen my problem-solving skills
+- 🚀 Interested in creating useful, thoughtful digital products
+- 🌌 Inspired by the future of technology and human creativity
+
+## ⚙️ Areas of Interest
+
+- Artificial Intelligence & Machine Learning
+- Generative AI and AI-powered applications
+- Full-Stack Web Development
 - Software Engineering
-- Product Innovation
+- Product Design & Innovation
 
-## Tech Stack
+## 🧰 Tech Stack
 
-**Currently exploring**
+**Languages**
 
-- HTML
-- CSS
-- JavaScript
+`Python` · `JavaScript` · `HTML` · `CSS`
 
-## What I'm Working Toward
+**Currently Exploring**
 
-Building a strong foundation in software development and creating projects that combine technical thinking with product-oriented creativity.
+`AI/ML` · `React` · `Node.js` · `APIs` · `Git`
 
-## My Philosophy
+## 🚧 What I'm Working Toward
 
-> Think beyond the obvious.  
-> Build with intention.  
-> Keep learning.  
-> Make ideas real.
+Building a strong foundation in software engineering and AI by creating practical projects, exploring new technologies, and learning how to turn ideas into reliable products.
 
--->
+## 🎯 My Philosophy
+
+> Think beyond the obvious.
+>
+> Build with purpose.
+>
+> Keep learning. Keep creating.
+
+---
+
+<div align="center">
+
+### IDEAS → SYSTEMS → PRODUCTS
+
+*The journey is the innovation.*
+
+</div>
+
+## 📊 GitHub Stats  
+![Sudhanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudx-code&show_icons=true&theme=tokyonight)
+
+## 🔥 Streak Stats  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sudx-code&theme=tokyonight)
+
+## 📫 Connect with me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudhanshu-kumar-271a35379/)
+
+---
+
+⭐ **"Code. Learn. Improve. Repeat."**
